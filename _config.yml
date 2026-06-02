@@ -1,0 +1,7 @@
+title: "TeraBox Player Guide"
+description: "Learn how to use the TeraBox Link to Video Player – Free Online Streaming Tool."
+baseurl: "" # leave empty unless in subfolder
+url: "https://rfbots.github.io"
+theme: minima
+plugins:
+  - jekyll-seo-tag
